@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactapp-by-revanth/static/css/main.216a2c27.chunk.css",
+    "main.js": "/reactapp-by-revanth/static/js/main.dbb9da57.chunk.js",
+    "main.js.map": "/reactapp-by-revanth/static/js/main.dbb9da57.chunk.js.map",
+    "runtime-main.js": "/reactapp-by-revanth/static/js/runtime-main.cb1b0825.js",
+    "runtime-main.js.map": "/reactapp-by-revanth/static/js/runtime-main.cb1b0825.js.map",
+    "static/js/2.33384109.chunk.js": "/reactapp-by-revanth/static/js/2.33384109.chunk.js",
+    "static/js/2.33384109.chunk.js.map": "/reactapp-by-revanth/static/js/2.33384109.chunk.js.map",
+    "static/js/3.f53c73ba.chunk.js": "/reactapp-by-revanth/static/js/3.f53c73ba.chunk.js",
+    "static/js/3.f53c73ba.chunk.js.map": "/reactapp-by-revanth/static/js/3.f53c73ba.chunk.js.map",
+    "index.html": "/reactapp-by-revanth/index.html",
+    "static/css/main.216a2c27.chunk.css.map": "/reactapp-by-revanth/static/css/main.216a2c27.chunk.css.map",
+    "static/js/2.33384109.chunk.js.LICENSE.txt": "/reactapp-by-revanth/static/js/2.33384109.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb1b0825.js",
+    "static/js/2.33384109.chunk.js",
+    "static/css/main.216a2c27.chunk.css",
+    "static/js/main.dbb9da57.chunk.js"
+  ]
+}
